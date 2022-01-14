@@ -1,0 +1,15 @@
+C:\personaldev\CFBCentral\CFBCentral\Data\bin\Debug\net6.0\Data.deps.json
+C:\personaldev\CFBCentral\CFBCentral\Data\bin\Debug\net6.0\Data.dll
+C:\personaldev\CFBCentral\CFBCentral\Data\bin\Debug\net6.0\ref\Data.dll
+C:\personaldev\CFBCentral\CFBCentral\Data\bin\Debug\net6.0\Data.pdb
+C:\personaldev\CFBCentral\CFBCentral\Data\bin\Debug\net6.0\Domain.dll
+C:\personaldev\CFBCentral\CFBCentral\Data\bin\Debug\net6.0\Domain.pdb
+C:\personaldev\CFBCentral\CFBCentral\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\personaldev\CFBCentral\CFBCentral\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\personaldev\CFBCentral\CFBCentral\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\personaldev\CFBCentral\CFBCentral\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\personaldev\CFBCentral\CFBCentral\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\personaldev\CFBCentral\CFBCentral\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\personaldev\CFBCentral\CFBCentral\Data\obj\Debug\net6.0\Data.dll
+C:\personaldev\CFBCentral\CFBCentral\Data\obj\Debug\net6.0\ref\Data.dll
+C:\personaldev\CFBCentral\CFBCentral\Data\obj\Debug\net6.0\Data.pdb
